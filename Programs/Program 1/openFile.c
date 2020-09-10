@@ -1,3 +1,12 @@
+
+//================================================
+// Description: This Program is to get file name from user and open that file
+// Input: exicutableName fileNameToOpen
+// Output: Show Succeess or Error
+// Author: Ganesh Narayan Jaiwal
+// Date: 10 Sept 2020
+//================================================
+
 #include <stdio.h>
 #include <fcntl.h>
 #include <string.h>
